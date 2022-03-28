@@ -1,2 +1,2 @@
 # WebDev
-HTTP &amp; CSS Website
+HTML &amp; CSS Website
